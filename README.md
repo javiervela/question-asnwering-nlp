@@ -1,4 +1,4 @@
-# QA-PLN
+# Question Answering System. NLP
 
 Question Answering System in Spanish developed using NLP techniques.
 
